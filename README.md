@@ -1,5 +1,5 @@
 # SOA_SKILL_EXP_2
-# Experiment 2 – API Gateway for E-Commerce Routing
+## API Gateway for E-Commerce Routing
 
 ## 📌 Experiment Overview
 
